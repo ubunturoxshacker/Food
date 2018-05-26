@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+.container-fluid #mainContainer{
+	background-image: url("img/streetfood.jpg");
+	height:100%;
+	
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.container #subcontainer{
+padding:10px;
+background-color:transparent;
+margin:auto;
+width:25%;
+height:60%;
+
+
+
+}
+.btn btn-default{
+	background-color:green;
+	text-color:white;
+}

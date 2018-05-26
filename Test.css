@@ -1,0 +1,32 @@
+
+.navbar.navbar-inverse {
+	 
+	 background-color:#666666;
+	 
+	
+	 
+}
+ .navbar.navbar-inverse .navbar-brand {
+  color: white;
+  font-size: 40px;
+}
+
+#logo {
+	margin-top:20px;
+	margin-left:0px;
+	
+	position: absolute;
+    top: 20px;
+    left: 0px;
+}
+.navbar.navbar-inverse .navbar-collapse  .li-align{
+	text-align:center;
+	
+}
+.navbar-toggle{
+	width:4px;
+}
+
+	
+	
+
